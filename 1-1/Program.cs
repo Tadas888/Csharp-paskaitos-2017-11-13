@@ -15,10 +15,10 @@ namespace _1_1
             var amzius = "32";
             var ugis = "1.86";
             var svoris = "88";
-            var aukstoji mokykla = "kaunascodingschool";
-            var akademines grupes kodas = "1";
-            var Studiju programos pavadinimas = "programavimas";
-            var atsiskaitytu kreditu skaicius = "3";
-                     }
+            var aukstoji_mokykla = "kaunascodingschool";
+            var akademines_grupes_kodas = "1";
+            var Studiju_programos_pavadinimas = "programavimas";
+            var atsiskaitytu_kreditu_skaicius = "3";
+        }
     }
 }
